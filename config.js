@@ -22,7 +22,7 @@ module.exports = {
   ],
   author: {
     name: "Min Jun Kim",
-    photo: "/photo.jpg",
+    photo: "/photo.png",
     bio:
       "Developer. Writer. Photographer. Passionate about quality experiences.",
     contacts: {
