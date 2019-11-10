@@ -16,11 +16,11 @@
       &-link {
         display: inline-block;
         height: $typographic-base-font-size;
-        padding: 11px 16px;
+        padding: 9px 11px;
         line-height: $typographic-base-font-size;
         border: 1px solid $color-gray-border;
         text-decoration: none;
-        border-radius: $button-border-radius;
+        border-radius: 5px;
         color: $color-base;
 
         &:hover,
