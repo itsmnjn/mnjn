@@ -24,7 +24,7 @@ module.exports = {
     name: "Min Jun Kim",
     photo: "/photo.png",
     bio:
-      "Developer. Writer. Photographer. Passionate about quality experiences.",
+      "UVA '21. I like to write words and code. Passionate about quality experiences.",
     contacts: {
       email: "hello@mnjn.me",
       twitter: "itsmnjn",
