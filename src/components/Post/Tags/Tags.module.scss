@@ -11,13 +11,13 @@
 
     &-item {
       display: inline-block;
-      margin: 10px 2.5px;
+      margin: 8px 2.5px;
 
       &-link {
         display: inline-block;
-        height: $button-height;
-        padding: 2px 18px;
-        line-height: $button-height;
+        height: $typographic-base-font-size;
+        padding: 11px 16px;
+        line-height: $typographic-base-font-size;
         border: 1px solid $color-gray-border;
         text-decoration: none;
         border-radius: $button-border-radius;
