@@ -16,9 +16,11 @@ const Feed = ({ edges }: Props) => (
         <div className={styles["feed__item-meta"]}>
           <time
             className={styles["feed__item-meta-time"]}
-            dateTime={moment(edge.node.frontmatter.date).format("MMMM D, YYYY")}
+            dateTime={moment(edge.node.frontmatter.date).format(
+              "MMMM DD, YYYY"
+            )}
           >
-            {moment(edge.node.frontmatter.date).format("MM/D/YYYY")}
+            {moment(edge.node.frontmatter.date).format("MM/DD/YYYY")}
           </time>
           <span className={styles["feed__item-meta-divider"]} />
           <span className={styles["feed__item-meta-category"]}>
