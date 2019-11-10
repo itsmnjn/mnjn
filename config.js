@@ -8,7 +8,7 @@ module.exports = {
   copyright: "© Min Jun Kim 2019.",
   disqusShortname: "mnjn",
   postsPerPage: 4,
-  googleAnalyticsId: "UA-73379983-2",
+  googleAnalyticsId: "UA-112603320-4",
   useKatex: false,
   menu: [
     {
