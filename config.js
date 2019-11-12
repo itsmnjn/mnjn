@@ -6,7 +6,7 @@ module.exports = {
   title: "MNJN",
   subtitle: "The personal website and blog of Min Jun Kim",
   copyright: "© Min Jun Kim 2019.",
-  disqusShortname: "mnjn",
+  disqusShortname: "",
   postsPerPage: 4,
   googleAnalyticsId: "UA-112603320-4",
   useKatex: false,
