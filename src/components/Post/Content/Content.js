@@ -8,7 +8,7 @@ type Props = {
   recording: string
 };
 
-const s3 = "http://mnjn.s3.amazonaws.com/";
+const s3 = "https://dqyky9girakpy.cloudfront.net/";
 
 const Content = ({ body, title, recording }: Props) => (
   <div className={styles["content"]}>
