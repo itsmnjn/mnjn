@@ -11,7 +11,7 @@ tags:
   - "Honey"
 description: "Finally, it's all over. After a tiring three months, I am glad to say that I have accepted an offer from Amazon for the summer of 2020."
 socialImage: ""
-recording: ""
+recording: "the-hunt-ends-for-an-internship.mp3"
 ---
 
 Finally, it's all over. After a tiring three months, I am glad to say that I have accepted an offer from Amazon for the summer of 2020.
