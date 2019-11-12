@@ -1,7 +1,7 @@
 ---
 title: "About"
 template: "page"
-socialImage: "/media/social-image.jpg"
+socialImage: ""
 ---
 
 Hi, I'm Min Jun. I do go by Eric, but feel free to call me whichever.
