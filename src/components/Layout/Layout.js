@@ -15,7 +15,10 @@ type Props = {
 
 const Layout = ({ children, title, description, socialImage }: Props) => {
   const { author, url } = useSiteMetadata();
-  const metaImage = socialImage != null ? socialImage : "/social-image.jpg";
+  const metaImage =
+    socialImage != null && socialImage != ""
+      ? socialImage
+      : "/social-image.jpg";
   const metaImageUrl = url + withPrefix(metaImage);
 
   return (
