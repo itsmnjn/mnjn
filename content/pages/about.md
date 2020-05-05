@@ -12,4 +12,4 @@ I'm quite passionate about a lot of things, but primarily engineering/building s
 
 In software, I enjoy working with the whole stack, completely language agnostic, from web applications to embedded systems to artificial intelligence and data science.
 
-My long-term aspiration is to contribute as much as I can to humanity's spacefaring capabilities.
+My long-term aspiration is to have contributed as much as possible to humanity's spacefaring capabilities.
