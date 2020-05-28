@@ -23,8 +23,7 @@ module.exports = {
   author: {
     name: 'Min Jun Kim',
     photo: '/social-image.png',
-    bio:
-      "UVA '21. I like to write words and code. Passionate about engineering and space exploration.",
+    bio: "UVA '22. Exploring consciousness and space.",
     contacts: {
       email: 'mk7pe@virginia.edu',
       twitter: 'itsmnjn',
