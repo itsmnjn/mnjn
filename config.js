@@ -4,8 +4,8 @@ module.exports = {
   url: 'https://mnjn.me',
   pathPrefix: '/',
   title: 'MNJN',
-  subtitle: 'The personal website and blog of Min Jun Kim',
-  copyright: '© Min Jun Kim 2020.',
+  subtitle: 'The personal website and blog of Min Jun (Eric) Kim',
+  copyright: '© Min Jun Kim 2021.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-112603320-4',
@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Min Jun Kim',
     photo: '/social-image.png',
-    bio: "UVA '22. Exploring consciousness and space.",
+    bio: 'I like to build apps and stuff! Founder of Disco.',
     contacts: {
       email: 'mk7pe@virginia.edu',
       twitter: 'itsmnjn',
